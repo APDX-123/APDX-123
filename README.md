@@ -1,20 +1,20 @@
-# Hey there, I'm Aryan 👋
+# Hey there, I'm Aryan, here are my hobbies! 👋
 
 🚀 **Founder | AI Innovator | Full-Stack Engineer**  
 💡 Building high-impact software solutions that blend **AI, beautiful design, and business results**.  
-📍 Based in Arizona | 🇺🇸 US Citizen
+📍 Based in Arizona | 🇺🇸 Citizen
 
 ---
 
 ## 💭 About Me
-I’m a **Computer Science student at Arizona State University – Barrett Honors College** (AI Concentration) passionate about creating intelligent, user-centric applications.  
+I’m a **Computer Science student at Arizona State University – Barrett Honors College**. I am passionate about creating intelligent, user-centric applications.  
 From leading my own software company to contributing to bioinformatics research, I thrive at the intersection of **AI, product design, and scalable engineering**.
 
 When I’m not coding, I’m probably **brainstorming the next big product**, exploring emerging AI tech, or optimizing my workflow to squeeze out that extra 10% productivity.
 
 ---
 
-## 📌 What I’m Up To
+## 📌 Some of my Accomplishments and activities I am working on!
 - 💼 Running **DevX Solutions**, delivering custom AI-driven software (6 projects, $50K+ revenue generated).
 - 🛠️ Experimenting with **Next.js**, **Flask**, **Supabase**, and **Gemini API** to push the limits of AI apps.
 - 📚 Expanding skills in **data structures, algorithms, and scalable architecture** for enterprise-grade systems.
@@ -45,4 +45,4 @@ When I’m not coding, I’m probably **brainstorming the next big product**, ex
 
 ---
 
-⭐ _"Code that solves real problems will always outlast hype."_ ⭐
+⭐ “Right action is better than knowledge; but in order to do what is right l, we must know what is right.” -Charlemagne⭐
