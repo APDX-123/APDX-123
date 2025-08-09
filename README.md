@@ -18,10 +18,10 @@ When I’m not coding, I’m probably **brainstorming the next big product**, ex
 - 💼 Running **DevX Solutions**, delivering custom AI-driven software (6 projects, $50K+ revenue generated).
 - 🛠️ Experimenting with **Next.js**, **Flask**, **Supabase**, and **Gemini API** to push the limits of AI apps.
 - 📚 Expanding skills in **data structures, algorithms, and scalable architecture** for enterprise-grade systems.
-- 🎯 Building portfolio projects like:
-  - **Lux** – AI-powered personal stylist.
-  - **HiveMind** – AI-driven collaborative Zoom tutoring tool.
-  - **WorkNest** – AI productivity desktop app.
+- 🎯 Previous projects like:
+  - **Lux** – .[AI-powered personal stylist](https://github.com/ashworks1706/DevHacks-2025/tree/main).
+  - **HiveMind** – .[AI-driven collaborative Zoom tutoring tool](https://github.com/ashworks1706/ScaleU-Pia-Hackathon).
+  - **WorkNest** – .[AI productivity desktop app](https://github.com/gbchill/Innovation-Hacks-2025).
 
 ---
 
